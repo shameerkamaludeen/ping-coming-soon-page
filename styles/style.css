@@ -1,13 +1,5 @@
 /* || Typography */
 
-h1 {
-    color: hsl(223, 87%, 63%); /* Blue */
-    color: hsl(223, 100%, 88%); /* Pale Blue */
-    color: hsl(354, 100%, 66%); /* Light Red */
-    color: hsl(0, 0%, 59%); /* Gray */
-    color: hsl(209, 33%, 12%); /* Very Dark Blue */
-}
-
 body {
     letter-spacing: 0.2px;
     word-spacing: 0.8px;
